@@ -1,0 +1,5 @@
+# Avoid pyc files
+*.pyc
+
+# Avoid .ropeproject
+.ropeproject
